@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Lutfi Dwica, A JavaScript Dev & Indie Maker
+I'm A JavaScript Dev & Indie Maker & Serverless Maniac
 
 Currently building:  
 ⚡ [Site2Static](https://site2static.com) - Never Pay Again for Web Hosting & Custom Domain  
