@@ -1,6 +1,6 @@
 
-### Hi there 👋
-I'm A JavaScript Dev & Indie Maker & Serverless Maniac
+### Lutfi Dwica 🤓
+JavaScript Dev | Indie Maker | Interested in Data Mining
 
 Currently building:  
 ⚡ [Site2Static](https://site2static.com) - Never Pay Again for Web Hosting & Custom Domain  
