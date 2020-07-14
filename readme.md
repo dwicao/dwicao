@@ -3,7 +3,7 @@
 JavaScript Dev | Indie Maker | Interested in Data Mining
 
 Experience:   
-3 Years at [Sorabel](https://sorabel.com) (previously Salestock).  
+3 Years at [Sorabel](https://sorabel.com) (previously Salestock)  
 As a ReactJS & React Native Dev - Web & Android & iOS
 
 Currently building:  
