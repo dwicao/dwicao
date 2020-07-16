@@ -1,6 +1,6 @@
 
 ### Lutfi Dwica 🤓
-JavaScript Dev | Indie Maker | Interested in Data Mining
+JavaScript Dev | Indie Maker | Trying to write a book
 
 Experience:   
 3 Years at [Sorabel](https://sorabel.com) (previously Salestock)  
