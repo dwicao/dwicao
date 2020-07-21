@@ -14,3 +14,5 @@ Currently building:
 Blogs about my journey being a solo founder:  
 🇮🇩 [Indonesian](https://indo.substack.com)  
 🌎 [English](https://solo.substack.com)  
+
+![github stats](https://github-readme-stats.vercel.app/api?username=dwicao&show_icons=true)
