@@ -15,4 +15,6 @@ Blogs about my journey being a solo founder:
 🇮🇩 [Indonesian](https://indo.substack.com)  
 🌎 [English](https://solo.substack.com)  
 
+I don't use email, so please DM me on Twitter instead.
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=dwicao&show_icons=true)
