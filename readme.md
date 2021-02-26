@@ -1,6 +1,6 @@
 
 ### Lutfi Dwica 🤓
-JavaScript Dev | Indie Game Dev (C#) | Content Creator (soon)
+JavaScript Dev | Indie Game Dev (C#) | Content Creator
 
 Experience:   
 3 Years at [Sorabel](https://sorabel.com) (previously Salestock)  
