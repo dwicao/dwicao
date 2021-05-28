@@ -1,5 +1,3 @@
-
-### Lutfi Dwica 🤓
 JavaScript Dev | Indie Game Dev (C#) | Content Creator
 
 Experience:   
